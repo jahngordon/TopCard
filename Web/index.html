@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="topcard.css" />
+	<script type="text/javascript" src="prototype.js"></script>
+	<script type="text/javascript" src="topcard.js"></script>
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	<title>Top Card</title>
+</head>
+<body>
+	<div id="header">Top Card Game</div>
+	<div id="userlist">
+		<h1>Players</h1>
+		<ul>
+		</ul>
+		<br />
+		<a id="addplayer" href="#" onclick="javascript:return topcard.addPlayer();">Add Player</a><br />
+		<a id="startgame" href="#" onclick="javascript:return topcard.startGame();" style="display: none;">Start Game</a><br />
+	</div>
+	<div id="playspace">
+	</div>
+	<div id="playerprompt" style="display: none;">
+		<h2>Player: <span id="playertoplay">No-one</span></h2>
+		<ul> 
+			<li><a href="#" onclick="javascript:return topcard.playWith('r');">Range</a></li>
+			<li><a href="#" onclick="javascript:return topcard.playWith('w');">Wingspan</a></li>
+			<li><a href="#" onclick="javascript:return topcard.playWith('l');">Length</a></li>
+			<li><a href="#" onclick="javascript:return topcard.playWith('h');">Height</a></li>
+			<li><a href="#" onclick="javascript:return topcard.playWith('s');">Max Speed</a></li>
+			<li><a href="#" onclick="javascript:return topcard.playWith('m');">Maximum Take Off Weight</a></li>
+			<li><a href="#" onclick="javascript:return topcard.playWith('f');">Year of First Flight</a></li>
+		</ul>
+	</div>
+	
+	<div id="cardsplayed" style="display: none;">
+		<h2>Cards Played, in order, this round:</h2>
+	</div>
+	
+	<div id="allcards" style="display: none;">
+	</div>
+	
+	<div id="nextround" style="display: none;">
+		<a href="#" onclick="javascript: return topcard.playCards();">Proceed...</a>
+	</div>
+</body>
+</html>

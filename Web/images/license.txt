@@ -1,0 +1,21 @@
+a320.jpg: Public Domain Image: https://commons.wikimedia.org/wiki/File:Airfrance.a320-200.f-glgm.arp.jpg
+a340.jpg: Public Domain Image: https://en.wikipedia.org/wiki/File:Etihad_a340-500_a6-ehb_arp.jpg
+a380.jpg: CC/AS (by Quentin Douchet): https://en.wikipedia.org/wiki/File:A380_Emirates_A6-EDC.jpg
+an124.jpg: CC/AS (by Sergey Kustov): https://en.wikipedia.org/wiki/File:Polet_Airlines_An-124_RA-82075_in_flight_28-Jul-2011.jpg
+an225.jpg: CC/AS (by Dmitry A. Mottl): https://commons.wikimedia.org/wiki/File:An-225_Mriya_4.jpg
+atr42.jpg: CC/AS (by Laurent ERRERA): https://commons.wikimedia.org/wiki/File:Precision_Air_ATR_42-600_(5H-PWH)_at_Toulouse-Blagnac_Airport_(LFBO).jpg
+b737.jpg: Public Domain Image: https://commons.wikimedia.org/wiki/File:Britair.b737-400.g-docp.arp.jpg
+b747.jpg: Public Domain Image: https://commons.wikimedia.org/wiki/File:Ba_b747-400_g-bnle_arp.jpg
+b777.jpg: CC/AS (by InSapphoWeTrust): https://commons.wikimedia.org/wiki/File:United_Airlines_777_N797UA.jpg
+bae146.jpg:Public Domain Image: https://commons.wikimedia.org/wiki/File:Qinetiq_BAe_Avro_RJ100_departs_RIAT_Fairford_14thJuly2014_arp.jpg
+cessna.jpg: Public Domain Image: https://commons.wikimedia.org/wiki/File:Cessna172-CatalinaTakeOff.JPG
+concorde.jpg: CC/AS (by Eduard Marmet): https://commons.wikimedia.org/wiki/File:British_Airways_Concorde_G-BOAC_03.jpg
+dash8.jpg: Public Domain Image: https://commons.wikimedia.org/wiki/File:Flybe_dash8_g-jecl_takeoff_manchester_arp.jpg
+dc10.jpg: Public Domain Image: https://commons.wikimedia.org/wiki/File:Northwest.arp.750pix.jpg
+dornier.jpg: CC/AS (by Juergen Lehle (albspotter.eu)): https://commons.wikimedia.org/wiki/file:tyrolean_jet_services_do-328-300_oe-htj.jpg
+erj145.jpg: CC/AS (by Raihan Ahmed): https://commons.wikimedia.org/wiki/File:S2-AGL.jpg
+fokker100.jpg: Public Domain Image: https://commons.wikimedia.org/wiki/File:Klm.fokker.f100.ph-ofg.arp.jpg
+il96.jpg: CC/AS (by Kirill Naumenko): https://commons.wikimedia.org/wiki/File:Aeroflot_Il-96-300_RA-96008_SVO_2011-3-10.png
+tristar.jpg: CC/AS (by Communi core): https://commons.wikimedia.org/wiki/File:Cathay_Pacific_L-1011_at_Osaka_Airport.jpg
+tu144.jpg: CC/AS (RIA Novosti archive, image #566221 / Lev Polikashin / CC-BY-SA 3.0): https://commons.wikimedia.org/wiki/File:RIAN_archive_566221_Tu-144_passenger_airliner.jpg
+

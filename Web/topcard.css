@@ -1,0 +1,22 @@
+#header {
+	font-size: 300%;
+	font-weight: bold;
+}
+
+.topcard {
+	border: 1px solid black;
+	margin: 2px;
+}
+
+#userlist, #playspace, #playerprompt {
+	width: 30%;
+	vertical-align: top;
+	display: inline-block;
+	*display: inline;
+	zoom: 1
+}
+
+table.topcard {
+	display: inline-table;
+}
+
